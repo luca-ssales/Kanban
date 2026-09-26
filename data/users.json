@@ -1,0 +1,51 @@
+[
+  {
+    "id": "6c34059c-1484-43ac-9f06-ccbac4f4a214",
+    "nome": "Admin Kanban",
+    "email": "admin@kanban.com",
+    "senhaHash": "dc1a6f8b4d5651e9c72bc5bb52dd66b6:90f80c92daf85c1a77f2f170339fcb4e6ddd2d6db6e3dbe1fdfddf66a1a66d6b40fdcd57195ac5dbb504f6cf9508a84ecfd37110d65e690a48cf8fdd514157c0",
+    "createdAt": "2026-07-31T22:06:55.078Z"
+  },
+  {
+    "id": "4d205ee0-bec9-4ff6-829e-f2b5af06bf9b",
+    "nome": "Usuário Teste",
+    "email": "test_1789926125544@kanban.com",
+    "senhaHash": "e41b24d621df3dd91e05d115f59d536a:5d9348c650e765be7dd60ce3546700aaec19344cde0f435190bacb066894879712c6b2b73ca6ca18bc03c1c69904df000d88e07ded6a420d69d1539b41a614a7",
+    "createdAt": "2026-09-20T17:42:05.606Z"
+  },
+  {
+    "id": "0c67ca6e-1a79-4f27-bb73-dc04d76987f0",
+    "nome": "Usuário Teste",
+    "email": "test_1789926393234@kanban.com",
+    "senhaHash": "cd8f596ec64495180a535609f1061b2b:85665383e89c19128be40222649d3dc0e932ace4593e59b8f207be6fa413bcb7ae3e039d24b98b9a59f3fca21606e9956a7078f4c7b44c0e16fdaa16adec40bf",
+    "createdAt": "2026-09-20T17:46:33.279Z"
+  },
+  {
+    "id": "dce501aa-b4df-40d0-8104-08c55ae1156a",
+    "nome": "Usuário Teste",
+    "email": "test_1789926668592@kanban.com",
+    "senhaHash": "2b86d8b26a6bfe9f420f4e16d96d0764:6cf251f460f13a7c10ab4b11f20e91c0252eb1dbd648b77faea3410cf5292f6f877754466b2def5a20ef6764714170f79c1cdfc2b0e3f205b428157b444fe602",
+    "createdAt": "2026-09-20T17:51:08.638Z"
+  },
+  {
+    "id": "c8e44aac-38a2-4dda-a3d0-f3794330645f",
+    "nome": "Usuário Teste",
+    "email": "test_1789927046221@kanban.com",
+    "senhaHash": "3c864dfa683a8eb4ad6662141268d5b9:02c815cb57669d1f31ce3d7cf85fa1fb2cf2b5b08e94543d5502437632b1cac8e84603b3db2c84c8e8ef4446c9d23ffca751ae70f1ad54305208e97e7356ec24",
+    "createdAt": "2026-09-20T17:57:26.342Z"
+  },
+  {
+    "id": "a74fb32c-df8d-4867-8332-a4ac5062a8fa",
+    "nome": "Usuário Teste",
+    "email": "test_1789927189398@kanban.com",
+    "senhaHash": "f55b71961c9a84675f943dfca2cbd0f0:9ab0fde8eb918849d1b6344cab9c15a46d509d35b65e93bb1bcac21ed3bbfc10145c75c64fc6e03d7ab6a3021afc5a42c9c7c2f19edc918eff6541bb8e42cce1",
+    "createdAt": "2026-09-20T17:59:49.442Z"
+  },
+  {
+    "id": "d1cbc4a8-27aa-4bfb-bb07-189a4294b4c0",
+    "nome": "Usuário Teste",
+    "email": "test_1789927248980@kanban.com",
+    "senhaHash": "e7de6770af765e0b00b7561b76c98883:ac102c0da82cb06677dfcfaa1f57573c0099cb1a5180fadda8a4e007c88d6566e48c39faea2f17c7a9f82afbd14c95fb59664f4acec5598d66badc7b2b03bcc2",
+    "createdAt": "2026-09-20T18:00:49.076Z"
+  }
+]

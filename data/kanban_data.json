@@ -1,0 +1,396 @@
+{
+  "activeBoardId": "board-2",
+  "theme": {
+    "type": "preset",
+    "presetId": "theme-light"
+  },
+  "boards": [
+    {
+      "id": "5661ea61-b337-482e-85de-ff36fd6e5f46",
+      "userId": "4d205ee0-bec9-4ff6-829e-f2b5af06bf9b",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "f2dec566-55e1-4d7d-b5a1-407300f2ce70",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "38450ba0-f9f3-4507-9db5-fb1957800a43",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "39b87b7a-da06-4a02-8e65-73c6720a7653",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "4d20dd88-9ccb-4727-8ae6-7c8067516857",
+      "userId": "0c67ca6e-1a79-4f27-bb73-dc04d76987f0",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "05d6f801-c729-4ce6-8eef-d70e31662194",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "00b714d6-58f9-4a86-8194-8ae84d22f44b",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "037a228f-4e80-4e5e-8f6d-681ee1cdb39c",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "e674107e-a8d2-4b29-9464-0d3897ac633d",
+      "userId": "dce501aa-b4df-40d0-8104-08c55ae1156a",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "00eff7a3-6a9c-4646-85b3-0d921438ff86",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "8487a421-5e74-4bea-8003-656aa65fffcd",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "094c982f-68aa-40b2-abca-af283ff98123",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "02ccb6e6-a6a5-413a-8160-410cbdd8e71c",
+      "userId": "c8e44aac-38a2-4dda-a3d0-f3794330645f",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "961caa93-4cd9-412f-9f2d-bff7a2dd05b6",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "ec8b7a59-bdd2-4a01-b492-0e379d913ffe",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "c6ad5a26-9274-493c-8ef4-16ce1727077a",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "e3cad729-e534-4dd9-8065-d8b4af17f0f7",
+      "userId": "a74fb32c-df8d-4867-8332-a4ac5062a8fa",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "96d05746-83d6-427a-a5b3-530553f32986",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "5d9b2310-62a8-4fac-ba9e-ea1bea9b32d0",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "20dd27aa-e5b2-4e5c-a4ba-88c082d119cb",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "21aacd28-f887-437f-b712-0c17a523b57a",
+      "userId": "d1cbc4a8-27aa-4bfb-bb07-189a4294b4c0",
+      "name": "Projeto Principal",
+      "columns": [
+        {
+          "id": "0352f95f-1b3d-4a72-a933-3d3ebbc28faf",
+          "title": "To Do",
+          "color": "#6c5ce7"
+        },
+        {
+          "id": "8208f330-d9c9-4135-861e-af82fc2ee61b",
+          "title": "Doing",
+          "color": "#fdcb6e"
+        },
+        {
+          "id": "ca4a5a2c-2ac1-47e7-a64e-c64c5c05e669",
+          "title": "Done",
+          "color": "#00b894"
+        }
+      ],
+      "tasks": []
+    },
+    {
+      "id": "board-2",
+      "name": "💻 Projeto DevOps",
+      "columns": [
+        {
+          "id": "col-todo-2",
+          "title": "To Do",
+          "color": "#6366f1"
+        },
+        {
+          "id": "col-doing-2",
+          "title": "Doing",
+          "color": "#f59e0b"
+        },
+        {
+          "id": "col-done-2",
+          "title": "Done",
+          "color": "#10b981"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task-it-01",
+          "columnId": "col-todo-2",
+          "title": "Migração do Banco para PostgreSQL 16 🐘",
+          "description": "Planejar e executar dump do banco legadão, criar scripts de migração de schema com Prisma/TypeORM e configurar pool de conexões com PgBouncer.",
+          "priority": "urgent",
+          "createdAt": "2026-09-12T10:00:00.000Z",
+          "dueDate": "2026-09-18T16:00:00.000Z",
+          "tags": [
+            "database",
+            "postgresql",
+            "infra"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-02",
+          "columnId": "col-todo-2",
+          "title": "Implementar Autenticação 2FA / MFA com TOTP 🔐",
+          "description": "Adicionar camada de autenticação em dois fatores via Google Authenticator e envio de códigos de backup em caso de emergência.",
+          "priority": "high",
+          "createdAt": "2026-09-14T11:30:00.000Z",
+          "dueDate": "2026-09-24T18:00:00.000Z",
+          "tags": [
+            "security",
+            "auth",
+            "backend"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-03",
+          "columnId": "col-todo-2",
+          "title": "Configurar Cluster Kubernetes & Helm Charts ☸️",
+          "description": "Estruturar manifests de deployment, service, ingress Nginx com TLS automático via Let's Encrypt e HPA para autoscaling dos pods.",
+          "priority": "high",
+          "createdAt": "2026-09-15T09:00:00.000Z",
+          "dueDate": "2026-09-28T20:00:00.000Z",
+          "tags": [
+            "devops",
+            "kubernetes",
+            "cloud"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-04",
+          "columnId": "col-todo-2",
+          "title": "Refatoração dos Endpoints REST para GraphQL ⚡",
+          "description": "Mapear queries e mutations para reduzir overfetching de dados no aplicativo mobile e otimizar latência de rede.",
+          "priority": "medium",
+          "createdAt": "2026-09-16T14:20:00.000Z",
+          "dueDate": "2026-10-05T19:00:00.000Z",
+          "tags": [
+            "api",
+            "graphql",
+            "architecture"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-05",
+          "columnId": "col-todo-2",
+          "title": "Auditoria de Acessibilidade (WCAG 2.1 AA) ♿",
+          "description": "Verificar contraste de cores, navegação completa por teclado, tags ARIA e suporte a leitores de tela NVDA/TalkBack.",
+          "priority": "low",
+          "createdAt": "2026-09-17T16:00:00.000Z",
+          "dueDate": "2026-10-12T17:00:00.000Z",
+          "tags": [
+            "frontend",
+            "accessibility",
+            "ux"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-06",
+          "columnId": "col-todo-2",
+          "title": "Sincronizar Tema com Prefers-Color-Scheme 🌙",
+          "description": "Detectar preferências do sistema operacional automaticamente e garantir renderização perfeita em monitores OLED.",
+          "priority": "low",
+          "createdAt": "2026-09-18T08:45:00.000Z",
+          "dueDate": "2026-10-15T18:00:00.000Z",
+          "tags": [
+            "frontend",
+            "css",
+            "design"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-07",
+          "columnId": "col-done-2",
+          "title": "Correção de Vazamento de Memória no Worker Node.js 🚨",
+          "description": "Investigar acúmulo de buffers não desalocados no processamento de filas Redis/BullMQ gerando OOM na AWS.",
+          "priority": "urgent",
+          "createdAt": "2026-09-13T13:10:00.000Z",
+          "dueDate": "2026-09-19T10:00:00.000Z",
+          "tags": [
+            "nodejs",
+            "performance",
+            "bugfix"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-08",
+          "columnId": "col-done-2",
+          "title": "Integração com Gateway de Pagamentos Stripe & Pix 💳",
+          "description": "Desenvolver webhooks idempotentes para confirmação de checkout, assinaturas recorrentes e tratamento de falhas de estorno.",
+          "priority": "urgent",
+          "createdAt": "2026-09-17T15:00:00.000Z",
+          "dueDate": "2026-09-20T22:00:00.000Z",
+          "tags": [
+            "payments",
+            "stripe",
+            "backend"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-09",
+          "columnId": "col-doing-2",
+          "title": "Setup de Observabilidade com OpenTelemetry & Grafana 📈",
+          "description": "Instrumentar traces distribuídos nas rotas da API, métricas de latência p95/p99 e dashboards de saúde no Grafana Cloud.",
+          "priority": "high",
+          "createdAt": "2026-09-18T10:00:00.000Z",
+          "dueDate": "2026-09-22T15:00:00.000Z",
+          "tags": [
+            "monitoring",
+            "grafana",
+            "devops"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-10",
+          "columnId": "col-doing-2",
+          "title": "Otimização do Bundle Vite & Tree-Shaking 🚀",
+          "description": "Aplicar code-splitting dinâmico nas rotas pesadas e compressão Brotli, reduzindo o First Contentful Paint para < 0.8s.",
+          "priority": "medium",
+          "createdAt": "2026-09-18T14:00:00.000Z",
+          "dueDate": "2026-09-25T18:00:00.000Z",
+          "tags": [
+            "frontend",
+            "performance",
+            "vite"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-11",
+          "columnId": "col-doing-2",
+          "title": "Elaboração da Suíte de Testes E2E com Playwright 🎭",
+          "description": "Cobrir fluxos críticos de autenticação, recuperação de senha, checkout e filtros de catálogo em ambiente de staging.",
+          "priority": "medium",
+          "createdAt": "2026-09-19T09:30:00.000Z",
+          "dueDate": "2026-09-27T20:00:00.000Z",
+          "tags": [
+            "qa",
+            "testing",
+            "playwright"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-12",
+          "columnId": "col-done-2",
+          "title": "Pipeline de CI/CD no GitHub Actions com SonarCloud 🤖",
+          "description": "Configurar workflows automatizados de lint, build, testes unitários (Jest) e análise estática de segurança SAST.",
+          "priority": "high",
+          "createdAt": "2026-09-05T08:00:00.000Z",
+          "dueDate": "2026-09-10T18:00:00.000Z",
+          "tags": [
+            "ci-cd",
+            "github-actions",
+            "devops"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-13",
+          "columnId": "col-done-2",
+          "title": "Implementação de Cache Distribuído com Redis Sentinel ⚡",
+          "description": "Cache de sessões de usuário e consultas frequentes de catálogo com TTL inteligente e invalidação por tags.",
+          "priority": "high",
+          "createdAt": "2026-09-08T11:00:00.000Z",
+          "dueDate": "2026-09-14T15:00:00.000Z",
+          "tags": [
+            "redis",
+            "caching",
+            "backend"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-14",
+          "columnId": "col-done-2",
+          "title": "Proteção contra Ataques DDoS & WAF na Cloudflare 🛡️",
+          "description": "Configuração de rate limiting por IP, regras de firewall gerenciadas e bloqueio de bots maliciosos nas rotas públicas.",
+          "priority": "urgent",
+          "createdAt": "2026-09-11T14:00:00.000Z",
+          "dueDate": "2026-09-16T12:00:00.000Z",
+          "tags": [
+            "security",
+            "cloudflare",
+            "infra"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        },
+        {
+          "id": "task-it-15",
+          "columnId": "col-done-2",
+          "title": "Documentação Interativa da API com Swagger / OpenAPI 📚",
+          "description": "Geração automática de schemas dos endpoints, exemplos de payloads de request/response e testes diretos via interface web.",
+          "priority": "low",
+          "createdAt": "2026-09-15T10:00:00.000Z",
+          "dueDate": "2026-09-18T17:00:00.000Z",
+          "tags": [
+            "docs",
+            "swagger",
+            "api"
+          ],
+          "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+        }
+      ],
+      "userId": "6c34059c-1484-43ac-9f06-ccbac4f4a214"
+    }
+  ]
+}

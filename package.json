@@ -1,0 +1,19 @@
+{
+  "name": "kanbanflow",
+  "version": "1.0.0",
+  "description": "KanbanFlow - Gerenciador de Tarefas Inteligente com JWT e Persistência JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "migrate": "node scripts/migrate.js"
+  },
+  "keywords": [
+    "kanban",
+    "jwt",
+    "nodejs",
+    "task-manager"
+  ],
+  "author": "",
+  "license": "ISC"
+}
